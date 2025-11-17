@@ -1,4 +1,3 @@
-package EST_Practical_PBLJ_23BCS11074;
 class Student {
     private String name;
     private int rollNo;
