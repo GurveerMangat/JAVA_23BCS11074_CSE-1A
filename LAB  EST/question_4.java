@@ -29,7 +29,7 @@ class Student {
     }
 }
 
-public class question_1 {
+public class question_4 {
     public static void main(String[] args) {
         Student s = new Student();
         s.setName("Gurveer");
